@@ -1,3 +1,19 @@
+## Inagri Mini MVP
+MVP functions requirements:
+#regis sebagai supplier 
+supplier bisa nambah komoditas yang bisa dijual
+
+#regis sebagai customer
+customer bisa order
+
+#dashboard
+dashboard untuk supplier dan customer (profile management)
+
+Mockup: https://drive.google.com/drive/folders/0B-DXAG5FE30iZWNVdFI0WnBsRWs
+Authentification: http://blog.slatepeak.com/creating-a-simple-node-express-api-authentication-system-with-passport-and-jwt/
+
+-------
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
