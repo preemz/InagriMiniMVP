@@ -1,5 +1,6 @@
 ## Inagri Mini MVP
 MVP functions requirements:
+
 #regis sebagai supplier 
 supplier bisa nambah komoditas yang bisa dijual
 
@@ -10,6 +11,7 @@ customer bisa order
 dashboard untuk supplier dan customer (profile management)
 
 Mockup: https://drive.google.com/drive/folders/0B-DXAG5FE30iZWNVdFI0WnBsRWs
+
 Authentification: http://blog.slatepeak.com/creating-a-simple-node-express-api-authentication-system-with-passport-and-jwt/
 
 -------
