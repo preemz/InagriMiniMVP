@@ -1,13 +1,13 @@
 ## Inagri Mini MVP
 MVP functions requirements:
 
-#regis sebagai supplier 
+#regis sebagai supplier | 
 supplier bisa nambah komoditas yang bisa dijual
 
-#regis sebagai customer
+#regis sebagai customer |
 customer bisa order
 
-#dashboard
+#dashboard |
 dashboard untuk supplier dan customer (profile management)
 
 Mockup: https://drive.google.com/drive/folders/0B-DXAG5FE30iZWNVdFI0WnBsRWs
