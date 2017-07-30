@@ -1,4 +1,6 @@
 ## Inagri Mini MVP
+App ini akan dikembangkan lebih lanjut ke tahap production, replace stack lama.
+
 MVP functions requirements:
 
 #regis sebagai supplier | 
